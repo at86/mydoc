@@ -5,7 +5,7 @@ https://zh.cppreference.com/w/cpp/language/explicit
 
 ⭐
 
-## 是啥：
+## 是什么：
 
 说明符.
 
