@@ -1,11 +1,7 @@
-本文参考`cppreference`上的`explicit说明符`文档整理.
+本文参考`explicit说明符`文档整理.
 https://zh.cppreference.com/w/cpp/language/explicit
 
-## 难易程度（易 1-5 难）
-
-⭐
-
-## 是什么：
+## 概述：
 
 说明符. 只能在`类声明内`的 [ `构造函数` | `或转换函数 (C++11 起)` ] 的`声明说明符序列`中出现.
 
