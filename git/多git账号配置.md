@@ -29,9 +29,9 @@ IdentityFile C:/Users/superman/.ssh/id_ed25519_github
 如下进行访问测试:
 
 ```
-ssh -T git@gitee.com
+ssh -vT git@gitee.com
 
-ssh -T git@github.com
+ssh -vT git@github.com
 
 ```
 
