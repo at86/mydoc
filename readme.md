@@ -32,6 +32,12 @@
 
 1. [`类-说明符-explicit`](./cpp/类-说明符-explicit.md) [wx.23]
 
+## 模板
+
+1. [`模板cpp17-类模板参数推导`](./cpp/模板-类模板参数推导.md)
+1. [`模板cpp17-if-constexpr`](./cpp/模板-if-constexpr.md)
+1. [`模板cpp17-折叠表达式`](./cpp/模板-折叠表达式.md)
+
 ## 容器
 
 1. [`容器-forward_list`](./cpp/容器-forward_list.md) [wx.24.3.4]
