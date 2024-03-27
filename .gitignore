@@ -1,2 +1,3 @@
 .vscode
-codeLib/**/*
+00stl/**/*
+00mds/**/*
